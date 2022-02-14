@@ -1,0 +1,56 @@
+[
+  {
+    "author": "J.R.R. Tolkien",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/91M9xPIf10L.jpg",
+    "pages": 336,
+    "title": "O Hobbit"
+  },
+  {
+    "author": "J.K. Rowling",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/61jgm6ooXzL.jpg",
+    "pages": 254,
+    "title": "Harry Potter e a Pedra Filosofal"
+  },
+  {
+    "author": "Anthony Burguess",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41v8fJg8qDL.jpg",
+    "pages": 201,
+    "title": "Laranja Mecanica"
+  },
+  {
+    "author": "Stephen King",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/91g9Dvtf+jL.jpg",
+    "pages": 1104,
+    "title": "It - A Coisa"
+  },
+  {
+    "author": "Markus Zusak",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51IUA7+1WmL._SX347_BO1,204,203,200_.jpg",
+    "pages": 480,
+    "title": "A menina que roubava livros"
+  },
+  {
+    "author": "John Boyne",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41lCCL6N4nL._SX330_BO1,204,203,200_.jpg",
+    "pages": 320,
+    "title": "O menino do pijama listrado"
+  },
+  {
+    "author": "H. P. Lovecraft",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/51rGoMZdcoL._SX343_BO1,204,203,200_.jpg",
+    "pages": 240,
+    "title": "O chamado de Cthulhu e outros contos"
+  },
+  {
+    "author": "Machado de Assis",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41GeyYROqTL._SX346_BO1,204,203,200_.jpg",
+    "pages": 208,
+    "title": "Dom Casmurro"
+  },
+  {
+    "author": "Jorge Amado",
+    "imageLink": "https://images-na.ssl-images-amazon.com/images/I/41egZIo3eYL._SX345_BO1,204,203,200_.jpg",
+    "pages": 280,
+    "title": "Capitães da areia"
+  }  
+]
